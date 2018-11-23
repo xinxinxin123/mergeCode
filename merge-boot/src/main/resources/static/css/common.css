@@ -1,0 +1,14 @@
+.text-input {
+    width: 50%;
+    background-color: aliceblue;
+}
+
+.text-area {
+    width:50%;
+    height: 400px;
+    background-color: aliceblue;
+}
+
+.body {
+    background-color: bisque;
+}
